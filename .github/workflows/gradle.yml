@@ -17,7 +17,7 @@ permissions:
   contents: read
   
 env:
-  S3_BUCKET_NAME: be-0-name
+  S3_BUCKET_NAME: be-118-sugyeonghh
 
 jobs:
   build:
